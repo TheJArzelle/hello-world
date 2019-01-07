@@ -1,2 +1,3 @@
 # hello-world
-my first
+My Fist Repository
+I love :pizza:
